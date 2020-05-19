@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home/Introduction.unity
+    guid: 35c1b2d4424dc48598e35cf953157200
+  - enabled: 1
+    path: Assets/Scenes/Walkthrough/Walkthrough1.unity
+    guid: 6d2e65d5e4fdb4e1b889e31d3dce76c0
+  - enabled: 1
+    path: Assets/Scenes/Walkthrough/Walkthrough2.unity
+    guid: f0696c4e712f647d880b7752295aacbe
+  - enabled: 1
+    path: Assets/Scenes/Walkthrough/Walkthrough3.unity
+    guid: 8598232ddbff94e86a7d1673ba4aff8f
+  - enabled: 1
+    path: Assets/Scenes/Walkthrough/Walkthrough4.unity
+    guid: c687d8af4eb5347f3aff518b8fdf191b
+  - enabled: 1
+    path: Assets/Scenes/Walkthrough/Walkthrough5.unity
+    guid: ea20ca5b55b6440a0bac9e7443c7a7de
+  - enabled: 1
+    path: Assets/Scenes/Walkthrough/Walkthrough6.unity
+    guid: 447edad75d4a34cd2a71a40bd98f7727
+  - enabled: 1
+    path: Assets/Scenes/Walkthrough/Walkthrough7.unity
+    guid: 2c99a9ffc50c842bd901d5f92a3d25b1
+  - enabled: 1
+    path: Assets/Scenes/Walkthrough/Walkthrough8.unity
+    guid: ac8da6a3589ec412f9fde35b711bfee0
+  - enabled: 0
+    path: 
+    guid: 429aab657fb6a41469f8509a2cfa2eb1
+  - enabled: 1
+    path: Assets/Scenes/Home/Stadium.unity
+    guid: e2e5ee92006114e08bf4ee90b8006381
+  - enabled: 1
+    path: Assets/Scenes/Archery/Archery Home.unity
+    guid: 896d23a00a58a4757945178c0828858c
+  - enabled: 1
+    path: Assets/Scenes/Archery/Archery Instructions.unity
+    guid: 2b18f252953d644bbac9b77d0af3c71c
+  - enabled: 1
+    path: Assets/Scenes/Archery/Archery Forest.unity
+    guid: c52b02eab75c6437b8523f582a6dcdfd
+  - enabled: 1
+    path: Assets/Scenes/Archery/Archery Score.unity
+    guid: cff8db8cec5f4481bb36c224842719fd
+  - enabled: 1
+    path: Assets/Scenes/Archery/Archery Volume.unity
+    guid: 12f06432a474b4f6bbd1fa3d7b2d503e
+  - enabled: 1
+    path: Assets/Scenes/Hurdles/Hurdles Home.unity
+    guid: a2d1d0431f2594ad4879c0ed78a9885f
+  - enabled: 1
+    path: Assets/Scenes/Hurdles/Hurdles.unity
+    guid: 98f7c5986b96c4c9c83cabb2aa3baacf
+  - enabled: 1
+    path: Assets/Scenes/Hurdles/Hurdles Score.unity
+    guid: 72d44340642c74bd3a0b27fb088ad18d
+  - enabled: 1
+    path: Assets/Scenes/Hurdles/Hurdles Volume.unity
+    guid: 0a5e15d381c1447fbaf21d467f0d312d
+  - enabled: 1
+    path: Assets/Scenes/Hurdles/Hurdles Instructions.unity
+    guid: 8283bf55aa39547b395329f129ca1e7d
+  - enabled: 1
+    path: Assets/Scenes/Cycling/Cycling Home.unity
+    guid: eac8aa33c170444139b9e8259e7c58d6
+  - enabled: 1
+    path: Assets/Scenes/Cycling/Cycling Level 1.unity
+    guid: f426ce8c43cd34519ae160f1a8d4d8e0
+  - enabled: 1
+    path: Assets/Scenes/Cycling/Cycling Level 2.unity
+    guid: 24d5872eabc914d3ba1899b674973b48
+  - enabled: 1
+    path: Assets/Scenes/Cycling/Cycling Level 3.unity
+    guid: 2aa321175fad4450b9828054fd3a626f
+  - enabled: 1
+    path: Assets/Scenes/Cycling/Cycling Level 4.unity
+    guid: 6feb0c24e7c1042c9a14de047c04a417
+  - enabled: 1
+    path: Assets/Scenes/Cycling/Cycling Level 5.unity
+    guid: a3eba74bad2ef4270a10cd9003c750db
+  - enabled: 1
+    path: Assets/Scenes/Cycling/Cycling Fail.unity
+    guid: 7cc61997998b34ecb88321ef4b6ba244
+  - enabled: 1
+    path: Assets/Scenes/Cycling/Cycling Volume.unity
+    guid: 07fd6609d6ff3461faf4b1cc6d3f93dd
+  - enabled: 1
+    path: Assets/Scenes/Cycling/Cycling Score.unity
+    guid: 5c54af5ff401b4224a2d73064515b229
+  - enabled: 1
+    path: Assets/Scenes/Cycling/Cycling Instructions.unity
+    guid: 71ced7b9b477b41cbb7a9d49b0ab9b77
+  - enabled: 1
+    path: Assets/Scenes/Climbing/Climbing Home.unity
+    guid: e4b0c46ae34f645c19f2c79df28fd825
+  - enabled: 1
+    path: Assets/Scenes/Climbing/Climbing.unity
+    guid: 6bcefff4a4ead42d28499bcd2e31258b
+  - enabled: 1
+    path: Assets/Scenes/Climbing/Climbing Score.unity
+    guid: e9500e207cacd4733b96bbc02613ddd4
+  - enabled: 1
+    path: Assets/Scenes/Climbing/Climbing Instructions.unity
+    guid: 0b9d71aa6786e4a758899dc5cd1aee94
+  - enabled: 1
+    path: Assets/Scenes/Climbing/Climbing Volume.unity
+    guid: 66c044f55a50343cfb811bde69f26234
+  m_configObjects: {}

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Target
+  - Arrow
+  - ArcheryScore
+  - Hurdle
+  - Flag
+  - Cyclist
+  - Restart
+  - CyclingEnd
+  - Paper
+  - Info
+  - TimerCanvas
+  - Tree
+  - Wrong
+  - Right
+  - Target2
+  - Target1
+  - Target3
+  - Target4
+  - Target5
+  - Target6
+  - Target7
+  - Target8
+  - Target9
+  - Target10
+  - Helmet
+  - LookingLeft
+  - ClimbingQ1
+  - ClimbingQ2
+  - ClimbingQ3
+  - ClimbingQ4
+  - ClimbingQ5
+  - ClimbingQ6
+  - ClimbingQ7
+  - ClimbingQ8
+  - ClimbingQ9
+  - ClimbingQ10
+  - Question
+  - Hurdle1
+  - Hurdle2
+  - Hurdle3
+  - Hurdle4
+  - Hurdle5
+  - Rope
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bike Base
+  - Bike Wheels
+  - UI2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3906077345
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
